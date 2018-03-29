@@ -1,10 +1,7 @@
 <resources>
 
     <string name="app_name">XYZ Reader</string>
-    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
 
-    <string name="action_refresh">Refresh</string>
-    <string name="action_settings">Settings</string>
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
@@ -12,9 +9,6 @@
     <string name="snack_message">You are currently offline</string>
 
     <string name="snack_action">Try again</string>
-    
-    <string name="transition_name_image">image_post</string>
-
 
 
 </resources>
